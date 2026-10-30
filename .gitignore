@@ -210,6 +210,8 @@ tempCodeRunnerFile.py
 
 # PyPI configuration file
 .pypirc
+audit.json
+
 
 # Marimo
 marimo/_static/
